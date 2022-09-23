@@ -64,7 +64,7 @@ Computing power and network capacity are often unbalanced between client and ser
 
 ### Pluggable
 
-A wire protocol is only part of a functioning API infrastructure. Large distributed systems need security, health-checking, load-balancing and failover, monitoring, tracing, logging, and so on. Implementations should provide extensions points to allow for plugging in these features and, where useful, default implementations.
+A wire protocol is only part of a functioning API infrastructure. Large distributed systems need security, health-checking, load-balancing and failover, monitoring, tracing, logging, and so on. Implementations should provide extension points to allow for plugging in these features and, where useful, default implementations.
 
 ### Extensions as APIs
 
